@@ -20,6 +20,4 @@ Run the script to generate the QR code image.
 Output
 The script will generate a QR code with the specified URL and save it as c_prog.png in the same directory.
 
-Contributing
-If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 =============================================================================================================================
